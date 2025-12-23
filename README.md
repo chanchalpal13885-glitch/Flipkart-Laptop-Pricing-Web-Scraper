@@ -1,5 +1,4 @@
-# <img width="100" height="100" alt="image" src="![Uploading image.png…]()
-" /> Flipkart Laptop Pricing Web Scaper
+# Flipkart Laptop Pricing Web Scaper
 
 📘 Project Overview  
 The Flipkart Laptop Pricing Analytics project focuses on collecting and preparing real-world e-commerce
