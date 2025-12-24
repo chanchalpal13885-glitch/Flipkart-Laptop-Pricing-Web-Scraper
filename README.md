@@ -71,6 +71,7 @@ It serves as a foundation for **EDA, dashboards, and predictive modeling workflo
 
 ## 🗂️ Repository Structure
 Flipkart-Laptop-Pricing-Web-Scraper
+
 │
 ├── Flipkart-Laptop-Pricing-Web-Scraper.ipynb
 └── README.md
